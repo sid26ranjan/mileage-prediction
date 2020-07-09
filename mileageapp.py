@@ -3,8 +3,8 @@ from sklearn.externals import joblib
 import pandas as pd
 import webbrowser
 
-path="/home/siddhant/notebook files/mpg_project/"
-model=joblib.load(path+'mileage_model.pkl') 
+
+model=joblib.load('mileage_model.pkl') 
 st.title(' MILEAGE PREDICTION ')
 
 st.write("Details Required")
