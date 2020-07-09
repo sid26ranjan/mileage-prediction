@@ -4,5 +4,3 @@ matplotlib>=1.4.3
 pandas>=0.19
 streamlit
 scikit-learn==0.22.1
-web-browser
-
