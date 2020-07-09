@@ -38,5 +38,9 @@ st.title(f"""{round(mileage[0],2)} kmpl """)
 st.write("    ")
 st.write("    ")
 
+
 if(st.button("Let's connect")):
-    webbrowser.open('https://www.linkedin.com/in/siddhant-ranjan-04a6b716b/') 
+    c = webbrowser.get('google-chrome') 
+    c.open('https://www.linkedin.com/in/siddhant-ranjan-04a6b716b/') 
+
+    #webbrowser.open('https://www.linkedin.com/in/siddhant-ranjan-04a6b716b/') 
