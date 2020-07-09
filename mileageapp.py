@@ -40,7 +40,8 @@ st.write("    ")
 
 
 if(st.button("Let's connect")):
-    c = webbrowser.get('google-chrome') 
-    c.open('https://www.linkedin.com/in/siddhant-ranjan-04a6b716b/') 
+    st.write("Linkedin--  https://www.linkedin.com/in/siddhant-ranjan-04a6b716b/")
+    st.write("GitHub -- https://github.com/sid26ranjan")
+    st.write('Hackerrank -- https://www.hackerrank.com/last_assassin?hr_r=1')
 
-    #webbrowser.open('https://www.linkedin.com/in/siddhant-ranjan-04a6b716b/') 
+    
