@@ -11,16 +11,17 @@ in this project i am predicting the mileage of the vehicle with the data given.t
 **acceleration**: the time(in seconds) it takes to reach 0-60mph.\
 **model year**: the year the car was manufactured.in this column the value given was year%100.\
 **origin**:origin of the car.three values are given in this column it can be American,European or Asian.\
-**car name**: name of the car.\
+**car name**: name of the car.
 
-the link to the dataset is https://www.kaggle.com/uciml/autompg-dataset.
-
-i have used visualisation tools like seaborn and matplotlib to understand the data and all the visualisation were very helpful and it provided a lot of useful insights which helped in different ways.
-
-i tried two different algorithms on the dataset and analysed thier results and then continued with one of them which gave some satisfactory results and that was linear regression.
-
-after the linear regression model is trained i saved the model using joblib so that it can be used further.
-
-
-
-
+the link to the dataset is https://www.kaggle.com/uciml/autompg-dataset. \
+i have used visualisation tools like seaborn and matplotlib to understand the data and all the visualisation were very helpful and it provided a lot of useful insights which helped in different ways.\
+i tried two different algorithms on the dataset and analysed thier results and then continued with one of them which gave some satisfactory results and that was linear regression.\
+after the linear regression model is trained i saved the model using joblib so that it can be used further.\
+a webapp is created using streamlit which have the following features as input \
+cylinders\
+displacement\
+horsepower\
+weight\
+acceleration\
+model year\
+origin
