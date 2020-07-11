@@ -3,7 +3,7 @@ predicting the mileage of a vehicle given the specifications.
 
 in this project i am predicting the mileage of the vehicle with the data given.the dataset i am using to train my machine learning model is very famous and is taken from kaggle.the auto mpg dataset have columns like 
 
-# mpg:
+### mpg:
 this is the mileage of the vehicle in miles per gallon,which i converted to kilometers per litre.\
 # cylinders:
 the number of cylinders in the engine.\
