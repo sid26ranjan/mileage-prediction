@@ -1,4 +1,4 @@
-# mileage-prediction
+# Mileage-prediction
 predicting the mileage of a vehicle given the specifications.
 
 in this project i am predicting the mileage of the vehicle with the data given.the dataset i am using to train my machine learning model is very famous and is taken from kaggle.the auto mpg dataset have columns like 
@@ -29,6 +29,8 @@ a webapp is created using **streamlit** which have the following features as inp
 the webapp is deployed on heroku and the link to webapp is https://siddhant-kpl-2.herokuapp.com/ 
 
 the webapp is designed to predict the mileage of the vehicle provided the above specifications.
+
+Here are some screenshots:
 
 ![screenshot of the webapp](https://github.com/sid26ranjan/mileage-prediction/blob/master/screenshots/Screenshot%20from%202020-07-11%2020-05-34.png)
 
