@@ -30,3 +30,7 @@ the webapp is deployed on heroku and the link to webapp is https://siddhant-kpl-
 
 the webapp is designed to predict the mileage of the vehicle provided the above specifications.
 
+![screenshot of the webapp](https://github.com/sid26ranjan/mileage-prediction/blob/master/screenshots/Screenshot%20from%202020-07-11%2020-05-34.png)
+
+![screenshot of the webapp](https://github.com/sid26ranjan/mileage-prediction/blob/master/screenshots/Screenshot%20from%202020-07-11%2020-05-41.png)
+
