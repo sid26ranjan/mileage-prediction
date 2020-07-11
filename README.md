@@ -13,15 +13,19 @@ in this project i am predicting the mileage of the vehicle with the data given.t
 **origin**:origin of the car.three values are given in this column it can be American,European or Asian.\
 **car name**: name of the car.
 
-the link to the dataset is https://www.kaggle.com/uciml/autompg-dataset. \
-i have used visualisation tools like seaborn and matplotlib to understand the data and all the visualisation were very helpful and it provided a lot of useful insights which helped in different ways.\
-i tried two different algorithms on the dataset and analysed thier results and then continued with one of them which gave some satisfactory results and that was linear regression.\
-after the linear regression model is trained i saved the model using joblib so that it can be used further.\
-a webapp is created using streamlit which have the following features as input \
-cylinders\
-displacement\
-horsepower\
-weight\
-acceleration\
-model year\
-origin
+the link to the dataset is https://www.kaggle.com/uciml/autompg-dataset.
+
+i have used visualisation tools like **seaborn** and **matplotlib** to understand the data and all the visualisation were very helpful and it provided a lot of useful insights which helped in different ways.\
+i tried two different algorithms on the dataset and analysed thier results and then continued with one of them which gave some satisfactory results and that was **linear regression**.\
+after the linear regression model is trained i saved the model using **joblib** so that it can be used further.\
+a webapp is created using **streamlit** which have the following features as input \
+**cylinders**\
+**displacement**\
+**horsepower**\
+**weight**\
+**acceleration**\
+**model year**\
+**origin**\
+the webapp is deployed on heroku and the link to webapp is https://siddhant-kpl-2.herokuapp.com/ 
+
+the webapp is designed to predict the mileage of the vehicle provided the specifications.
